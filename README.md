@@ -1,5 +1,5 @@
 # Bike-Tricks
-Tricks resource for FiveM servers
+Bike - Motor Tricks resource for FiveM servers
 
 Need Dev support?
 
